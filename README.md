@@ -1,3 +1,4 @@
 # RNAseq-undergrad-thesis
 RNA seq project. Use Soft K-means to cluster RNA seq data of four yeast species based on orthology and expression pattern.
-The Soft K-means is defined in the SKM_define branch. Last modified on 4/8/24.
+
+The output pickle file contains a Python dictionary with the used data, centers in each iteration, the final cluster assign, and the run time.
